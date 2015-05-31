@@ -5,9 +5,9 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['port'] = '3306';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '123456';
-$db['default']['database'] = 'startbbs';
+$db['default']['username'] = 'linwan67_ei';
+$db['default']['password'] = '102700';
+$db['default']['database'] = 'linwan67_ei';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = 'stb_';
 $db['default']['pconnect'] = TRUE;

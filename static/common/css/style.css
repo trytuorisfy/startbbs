@@ -49,7 +49,6 @@ abbr,acronym {
 
 body{
 	padding-top: 70px;
-	background:#E0E0E0/* url(../images/bg.png) bottom left repeat*/;
 	font-family: "FontAwesome","Arial","Microsoft YaHei","宋体",sans-serif;
 	font-size: 14px;
 
@@ -168,11 +167,11 @@ embed,object,iframe {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-      color: #fff;
-      background-color: #11547f;
+      color: #3B3F45;
+      background-color: #fff;
 }
 .navbar-default {
-    background-color: #0575bd;
+    background-color: #4D525A;
     border: none;
     margin-bottom: 30px;
 }
@@ -183,11 +182,8 @@ embed,object,iframe {
     font-weight: 300;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #fff;
-    background-color: #1b6595;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
+    color: #3B3F45;
+    background-color: #fff;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #fff;
